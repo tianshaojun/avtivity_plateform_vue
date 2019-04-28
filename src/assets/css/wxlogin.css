@@ -1,0 +1,12 @@
+#wxqr_login{
+  width:200px!important;
+  height:200px!important;
+}
+
+.wrp_code .qrcode{
+  width: 170px!important;
+  margin-top:0!important;
+}
+.impowerBox .title {
+  display: none!important;
+}

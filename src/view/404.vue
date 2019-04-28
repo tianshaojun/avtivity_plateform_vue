@@ -1,0 +1,16 @@
+<template>
+  <div class="wscn-http404-container">
+    404
+  </div>
+</template>
+
+<script>
+
+export default {
+  name: 'Page404',
+}
+</script>
+
+<style scoped>
+
+</style>
